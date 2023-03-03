@@ -1,5 +1,5 @@
 # Introduction
-This a sample example for shwoing 3D obj with pygame, pyopengl.
+This a simple example about shwoing 3D obj with pygame, pyopengl.
 **If you are familar with c++, trimesh2 is a better way to show 3D obj**. But this python code is simple and convient.
 
 [CSDN博客介绍](https://blog.csdn.net/hongmaodaxia/article/details/78956487)
